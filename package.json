@@ -1,0 +1,16 @@
+{
+  "name": "test_restful",
+  "version": "1.0.0",
+  "description": "Test a Node RESTful API with Mocha and Chai",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Doan",
+  "license": "ISC"
+}
